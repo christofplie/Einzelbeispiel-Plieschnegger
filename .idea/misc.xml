@@ -3,7 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/chris/AndroidStudioProjects/Einzelbeispiel-Plieschnegger/app/src/main/res/layout/activity_main.xml" value="0.2624113475177305" />
+        <entry key="..\:/Users/chris/AndroidStudioProjects/Einzelbeispiel-Plieschnegger/app/src/main/res/layout-v31/activity_main.xml" value="0.5541666666666667" />
+        <entry key="..\:/Users/chris/AndroidStudioProjects/Einzelbeispiel-Plieschnegger/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/chris/AndroidStudioProjects/Einzelbeispiel-Plieschnegger/app/src/main/res/layout/activity_main2.xml" value="0.33" />
+        <entry key="..\:/Users/chris/AndroidStudioProjects/Einzelbeispiel-Plieschnegger/app/src/main/res/layout/fragment_blank.xml" value="0.12314814814814815" />
       </map>
     </option>
   </component>
